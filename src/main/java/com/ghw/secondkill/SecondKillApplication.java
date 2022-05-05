@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("com.ghw.secondkill.pojo")
+@MapperScan("com.ghw.secondkill.mapper")
 public class SecondKillApplication {
 
     public static void main(String[] args) {
